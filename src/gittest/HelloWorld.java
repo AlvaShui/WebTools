@@ -8,6 +8,6 @@ public class HelloWorld {
 	}
 
 	public void test() {
-		System.out.println("这是新增的test方法");
+		System.out.println("杩欐槸鏂板鐨則est鏂规硶");
 	}
 }
